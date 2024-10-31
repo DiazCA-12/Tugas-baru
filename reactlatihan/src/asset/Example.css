@@ -1,0 +1,72 @@
+/* Navbar Styling */
+.navbar-custom {
+    background-color: #1c1c1c;
+    border-bottom: 2px solid #ff8c00;
+  }
+  
+  /* Card Styling */
+  .anime-card {
+    background-color: #282828;
+    color: #ffffff;
+    border: none;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    overflow: hidden;
+    border-radius: 10px;
+  }
+  
+  .anime-card:hover {
+    transform: scale(1.05);
+    box-shadow: 0 4px 15px rgba(255, 140, 0, 0.5);
+  }
+  
+  /* Image Styling */
+  .anime-card-img {
+    height: 200px;
+    object-fit: cover;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+  }
+  
+  /* Card Body Styling */
+  .anime-card-body {
+    padding: 15px;
+  }
+  
+  .anime-card-title {
+    font-size: 1rem;
+    font-weight: bold;
+    color: #ff8c00;
+  }
+  
+  .anime-card-subtitle {
+    color: #a9a9a9;
+    font-size: 0.8rem;
+  }
+  
+  .anime-card-text {
+    font-size: 0.9rem;
+    color: #d3d3d3;
+    margin: 10px 0;
+  }
+  
+  .anime-card-button {
+    background-color: #ff8c00;
+    border: none;
+    font-size: 0.8rem;
+    font-weight: bold;
+  }
+  
+  .anime-card-button:hover {
+    background-color: #e67e00;
+    color: #ffffff;
+  }
+  
+  /* Responsive Text Center */
+  .text-center {
+    text-align: center;
+  }
+  
+  .text-light {
+    color: #d3d3d3 !important;
+  }
+  

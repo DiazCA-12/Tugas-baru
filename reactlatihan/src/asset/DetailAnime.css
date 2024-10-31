@@ -1,0 +1,42 @@
+/* src/asset/DetailAnime.css */
+.detail-anime-container {
+    max-width: 800px;
+    margin: auto;
+  }
+  
+  .anime-detail-card {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+  }
+  
+  .anime-detail-img {
+    width: 200px;
+    height: auto;
+    object-fit: cover;
+    margin-right: 20px;
+    border-radius: 5px;
+  }
+  
+  .anime-detail-body {
+    flex: 1;
+  }
+  
+  .anime-title {
+    font-weight: bold;
+    color: #333;
+  }
+  
+  .anime-rating, .anime-score {
+    color: #888;
+    font-size: 0.9rem;
+  }
+  
+  .anime-synopsis {
+    text-align: justify;
+
+    margin-top: 15px;
+    line-height: 1.6;
+    color: #555;
+  }
+  
