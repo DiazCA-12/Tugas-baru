@@ -1,3 +1,5 @@
+![alt text](https://github.com/DiazCA-12/Tugas-baru/blob/master/reactlatihan/public/Screenshot%20(298).png?raw=true)
+![alt text](https://github.com/DiazCA-12/Tugas-baru/blob/master/reactlatihan/public/Screenshot%20(299).png?raw=true)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
